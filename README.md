@@ -18,7 +18,7 @@
   </a>
   <br align="center"></br>
 
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/31nmiw4v7lzucuapdx6bisfzq4ly">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmiw4v7lzucuapdx6bisfzq4ly&cover_image=true&theme=novatorem"/>
   </a>
   <br align="center"></br>
