@@ -17,12 +17,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadowhusky&repo=DogCraft&theme=algolia"/>
   </a>
   <br align="center"></br>
-
-  <a href="https://open.spotify.com/user/31nmiw4v7lzucuapdx6bisfzq4ly">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmiw4v7lzucuapdx6bisfzq4ly&cover_image=true&theme=novatorem"/>
-  </a>
-  <br align="center"></br>
-
   <h2 align="center"> Visit My Personal Website </h2>
   <p align="center"></p>
   <h3>
